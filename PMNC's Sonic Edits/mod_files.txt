@@ -4,4 +4,5 @@ add default_config/raw/character/sonic.pac
 add default_config/raw/character/soniccyber.pac
 add long_config/raw/character/sonic.pac
 add long_config/raw/character/soniccyber.pac
+add config.json
 add mod.ini
