@@ -1,8 +1,8 @@
 delete raw/character/sonic.pac
 delete raw/character/soniccyber.pac
+add config.json
 add default_config/raw/character/sonic.pac
 add default_config/raw/character/soniccyber.pac
 add long_config/raw/character/sonic.pac
 add long_config/raw/character/soniccyber.pac
 add mod.ini
-add config.json
