@@ -1,3 +1,7 @@
-add raw/character/sonic.pac
-add raw/character/soniccyber.pac
+delete raw/character/sonic.pac
+delete raw/character/soniccyber.pac
+add default_config/raw/character/sonic.pac
+add default_config/raw/character/soniccyber.pac
+add long_config/raw/character/sonic.pac
+add long_config/raw/character/soniccyber.pac
 add mod.ini
