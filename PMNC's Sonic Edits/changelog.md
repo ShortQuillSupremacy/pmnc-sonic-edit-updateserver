@@ -1,3 +1,6 @@
+## PMNC's Sonic Edits V1.2
+- Adjusted The Specular
+
 ## PMNC's Sonic Edits V1.1
 - Added Long Quill Option
 
