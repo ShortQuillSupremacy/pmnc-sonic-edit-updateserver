@@ -1,4 +1,5 @@
-add config.json
+delete raw/character/sonic.pac
+delete raw/character/soniccyber.pac
 add default_config/raw/character/sonic.pac
 add default_config/raw/character/soniccyber.pac
 add default_config/raw/dlc/dlccrm/dlccrm.pac
