@@ -1,3 +1,6 @@
+## PMNC's Sonic Edits V1.3.5
+- Attempted To Fix Possible Crashing
+
 ## PMNC's Sonic Edits V1.3
 - Added Support For Xmas And Soap Shoes Outfit
 
