@@ -1,6 +1,10 @@
 add config.json
 add default_config/raw/character/sonic.pac
 add default_config/raw/character/soniccyber.pac
+add default_config/raw/dlc/dlccrm/dlccrm.pac
+add default_config/raw/dlc/dlcxmas/dlcxmas.pac
 add long_config/raw/character/sonic.pac
 add long_config/raw/character/soniccyber.pac
+add long_config/raw/dlc/dlccrm/dlccrm.pac
+add long_config/raw/dlc/dlcxmas/dlcxmas.pac
 add mod.ini
