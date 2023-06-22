@@ -1,5 +1,5 @@
 ## PMNC's Sonic Edits V1.4
-- Adjusted Sonics Shoes
+- Adjusted Sonic's Shoes
 - Fixed The Aura
 - Added Super Sonic Texture Edits (Model Edit Coming Soon)
 
