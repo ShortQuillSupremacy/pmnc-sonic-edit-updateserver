@@ -1,3 +1,8 @@
+## PMNC's Sonic Edits V1.4
+- Adjusted Sonics Shoes
+- Fixed The Aura
+- Added Super Sonic Texture Edits (Model Edit Coming Soon)
+
 ## PMNC's Sonic Edits V1.3.5
 - Attempted To Fix Possible Crashing
 
