@@ -1,4 +1,13 @@
 delete raw/character/sonic.pac
 delete raw/character/soniccyber.pac
+add main/raw/character/supersonic.pac
+add default_config/raw/character/sonic.pac
+add default_config/raw/character/soniccyber.pac
+add default_config/raw/dlc/dlccrm/dlccrm.pac
+add default_config/raw/dlc/dlcxmas/dlcxmas.pac
+add long_config/raw/character/sonic.pac
+add long_config/raw/character/soniccyber.pac
+add long_config/raw/dlc/dlccrm/dlccrm.pac
+add long_config/raw/dlc/dlcxmas/dlcxmas.pac
 add config.json
 add mod.ini
