@@ -1,7 +1,7 @@
 delete raw/character/sonic.pac
 delete raw/character/soniccyber.pac
 add main/raw/character/supersonic.pac
-add efault_config/raw/character/sonic.pac
+add default_config/raw/character/sonic.pac
 add default_config/raw/character/soniccyber.pac
 add default_config/raw/dlc/dlccrm/dlccrm.pac
 add default_config/raw/dlc/dlcxmas/dlcxmas.pac
