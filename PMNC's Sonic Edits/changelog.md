@@ -1,3 +1,6 @@
+## PMNC's Sonic Edits V1.5.5
+- Fixed Crashing With The Frontier Elite Outfit
+  
 ## PMNC's Sonic Edits V1.5
 - Now Supports Update 2
 - Added The Birthday And Crown Outfits
