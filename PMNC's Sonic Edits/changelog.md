@@ -1,3 +1,7 @@
+## PMNC's Sonic Edits V1.5
+- Now Supports Update 2
+- Added The Birthday And Crown Outfits
+  
 ## PMNC's Sonic Edits V1.4
 - Adjusted Sonic's Shoes
 - Fixed The Aura
