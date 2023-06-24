@@ -14,4 +14,3 @@ add long_config/raw/dlc/dlccrm/dlccrm.pac
 add long_config/raw/dlc/dlcxmas/dlcxmas.pac
 add main/raw/character/supersonic.pac
 add config.json
-add mod.ini
