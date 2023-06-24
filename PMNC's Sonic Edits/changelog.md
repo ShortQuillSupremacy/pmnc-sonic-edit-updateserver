@@ -1,4 +1,4 @@
-## PMNC's Sonic Edits V1.5.5
+## PMNC's Sonic Edits V1.5.1
 - Fixed Crashing With The Frontier Elite Outfit
   
 ## PMNC's Sonic Edits V1.5
