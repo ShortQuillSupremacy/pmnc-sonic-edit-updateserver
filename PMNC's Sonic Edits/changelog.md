@@ -1,3 +1,7 @@
+## PMNC's Sonic Edits V1.6
+- Added support for Update 3
+- Changed the colors of some textures
+  
 ## PMNC's Sonic Edits V1.5.1
 - Fixed Crashing With The Frontier Elite Outfit
   
