@@ -1,3 +1,6 @@
+## PMNC's Sonic Edits V2
+- Added a new Sonic model
+  
 ## PMNC's Sonic Edits V1.6
 - Added support for Update 3
 - Changed the colors of some textures
